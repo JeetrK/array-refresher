@@ -1,0 +1,1 @@
+const artists = [`Jane`, `WillfromtheD`, `Che`, `Glaive`, `bladee`, `Underscores`, `Quadeca`, `Mobo`, `Sematary`, `LucyB`]
